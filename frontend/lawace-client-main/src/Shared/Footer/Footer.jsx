@@ -14,9 +14,8 @@ export default function Footer() {
               <hr className="w-16 border-yellow-600" />
             </div>
             <p className="text-gray-300">
-              Fusce elementum nibh leo, quis suscipit quam venenatis eget. Donec
-              ut egestas nunc. Proin convallis velit purus, quis sollicitudin
-              dolor vehicula ac.
+            We are a legal platform connecting clients with trusted lawyers, 
+            offering secure tools for seamless legal management and accessibility.
             </p>
             <div className="flex space-x-4">
               <Link
@@ -104,11 +103,11 @@ export default function Footer() {
               <hr className="w-16 border-yellow-600" />
             </div>
             <div className="space-y-4 text-gray-300">
-              <p>145 451 Street Office 789 Del4563, Western Australia</p>
+              <p>BRAC University, Merul Badda, Dhaka</p>
+              <p>info@mylegaladvisor.com</p>
               <p>[email protected]</p>
-              <p>[email protected]</p>
-              <p>+91 987 9874 569</p>
-              <p>+91 235 9874 512</p>
+              <p>01912345678</p>
+              <p>01921201719</p>
             </div>
           </div>
         </div>

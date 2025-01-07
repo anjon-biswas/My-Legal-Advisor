@@ -10,25 +10,25 @@ export default function ServicesSection() {
       icon: <IoScale className="w-8 h-8" />,
       title: "Professional Advice",
       description:
-        "Etiam justo vitae lacus hendrerit ornare sit amet in justo donec felis tempus augue.",
+        "Receive expert legal guidance tailored to your unique needs from our team of experienced lawyers.",
     },
     {
       icon: <GoBriefcase className="w-8 h-8" />,
       title: "Employment Law",
       description:
-        "Etiam justo vitae lacus hendrerit ornare sit amet in justo donec felis tempus augue.",
+        "Navigate workplace challenges with our specialized services in employment contracts, disputes, and compliance.",
     },
     {
       icon: <RiMoneyDollarBoxFill className="w-8 h-8" />,
       title: "Competitive Pricing",
       description:
-        "Etiam justo vitae lacus hendrerit ornare sit amet in justo donec felis tempus augue.",
+        "Access high-quality legal services at fair and transparent rates to suit your budget.",
     },
     {
       icon: <RiGraduationCapFill className="w-8 h-8" />,
       title: "Education Law",
       description:
-        "Etiam justo vitae lacus hendrerit ornare sit amet in justo donec felis tempus augue.",
+        " Get support with legal matters related to schools, universities, and educational policies.",
     },
   ];
 
@@ -57,9 +57,8 @@ export default function ServicesSection() {
           </div>
           <div className="space-y-4">
             <p className="text-gray-600">
-              Curabitur nec nibh risus. Nam tempus lacinia libero, vel mollis
-              enim faucibus fringilla. Morbi vitae risus pharetra sem semper
-              fringilla vel et odio. Nunc, id ipsum non felis mollis finibus.
+            We provide a platform to hire experienced lawyers, check their availability, and securely manage legal payments. 
+            Additionally, users can upload and organize legal documents with complete confidentiality.
             </p>
             <Link
               href="#"

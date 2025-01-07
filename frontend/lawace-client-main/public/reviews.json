@@ -2,8 +2,8 @@
   {
     "id": 1,
     "rating": 5,
-    "user_image": "https://i.ibb.co/d7SVjHC/nasim.png",
-    "user_name": "Nasim Ahmed",
+    "user_image": "https://i.postimg.cc/mknwTMxX/35426837-380738525780341-3668034540460310528-n.jpg",
+    "user_name": "Random Rifat",
     "user_occupation": "Engineer",
     "user_review": "As someone who values professionalism, I'm impressed by the expertise and dedication of this lawyer. They handled my case with precision and care, ensuring the best outcome. Highly recommended!"
   },
@@ -17,10 +17,10 @@
   },
   {
     "id": 3,
-    "rating": 4.5,
+    "rating": 4,
     "user_image": "https://i.ibb.co/d7SVjHC/nasim.png",
     "user_name": "Nasim Ahmed",
     "user_occupation": "Engineer",
-    "user_review": "This lawyer is exceptional! Their ability to navigate complex legal issues and provide practical solutions exceeded my expectations. Truly a professional worth trusting."
+    "user_review": "This lawyer is exceptional! Their ability to navigate complex legal issues and provide practical solutions exceeded my expectations. Truly a professional worth trusting.I am very much glad that I feel free to use the platform anytime."
   }
 ]

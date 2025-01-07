@@ -211,7 +211,6 @@ async function run() {
 
        **Details:**
         - **Date and Time:** 12/01/2025 | 09:30 PM
-        - **Meet Link:** https://meet.google.com/jit-bvui-hwu,
         - **Charge:** $100 (to be paid at the office)
 
         Best regards,  

@@ -18,8 +18,8 @@ function TeamSection() {
             Our Best <br /> Experts
           </h3>
           <p className="w-[80%] mt-10">
-            Donec sit amet erat lacus. Curabitur erat nunc, aliquet a convallis
-            non, interdum non arcu.
+          Our best legal experts are here to provide you with professional advice, 
+          seamless communication, and tailored solutions for all your legal needs.
           </p>
           <Link
             href="#"

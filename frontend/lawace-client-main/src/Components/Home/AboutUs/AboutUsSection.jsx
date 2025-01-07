@@ -21,11 +21,8 @@ function AboutUsSection() {
           <p className="text-2xl font-bold text-[#C19A5B]">About Us</p>
           <h3 className="text-7xl font-bold">We Give Justice To The Truth</h3>
           <p>
-            Aliquam eu nunc imperdiet, volutpat mi vel, lobortis ligula. In
-            pharetra dignissim lacus, faucibus volutpat lorem suscipit nec. Nunc
-            fringilla arcu eu massa ornare pharetra. Etiam consectetur molestie
-            purus, sed auctor felis blandit eget. Suspendisse vitae molestie
-            est, et blandit felis.
+          We are a legal platform connecting clients with trusted lawyers, 
+          offering secure tools for seamless legal management and accessibility.
           </p>
 
           <div className="space-y-4">
@@ -37,9 +34,9 @@ function AboutUsSection() {
               </div>
               <div className="collapse-content">
                 <p>
-                  Etiam id justo vitae lacus hendrerit ornare sit amet in justo.
-                  Donec non felis tempus augue malesuada viverra sagittis
-                  accumsan nisl.
+                To simplify legal services by connecting individuals with trusted
+                 lawyers and providing secure tools for seamless legal management.
+
                 </p>
               </div>
             </div>
@@ -51,9 +48,8 @@ function AboutUsSection() {
               </div>
               <div className="collapse-content">
                 <p>
-                  Etiam id justo vitae lacus hendrerit ornare sit amet in justo.
-                  Donec non felis tempus augue malesuada viverra sagittis
-                  accumsan nisl.
+                To revolutionize the legal industry with an innovative
+                platform that ensures accessibility, transparency, and efficiency.
                 </p>
               </div>
             </div>

@@ -46,8 +46,8 @@ export default function Banner() {
               Legal System
             </h1>
             <p className="text-gray-600 max-w-lg text-lg">
-              Aliquam eu nunc imperdiet, volutpat mi vel, lobortis ligula. In
-              pharetra dignissim lacus, faucibus volutpat lorem suscipit nec.
+            We are committed to providing the most effective and efficient legal solutions tailored to your needs. 
+            With our expertise and dedication, we ensure the best possible outcomes for every client.
             </p>
 
             <div className="flex gap-2">
